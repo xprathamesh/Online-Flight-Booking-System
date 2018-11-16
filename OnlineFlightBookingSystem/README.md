@@ -1,6 +1,3 @@
-# Online Air Ticket Booking System
+# Online Flight Ticket Booking System
+Online Flight Ticket Booking system developed using Java, Spring MVC, Hibernate and mySQL build using Apache Maven
 
-* An online airline ticket system using Java Spring MVC and Hibernate
-* Build tool used - Apache Maven
-* Database vendor used - MySQL
-* All JavaMail functionality upcoming
